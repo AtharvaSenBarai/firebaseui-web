@@ -13,10 +13,10 @@
  */
 
 var config = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "your-app.firebaseapp.com",
-  databaseURL: "https://your-app.firebaseio.com",
-  storageBucket: "your-app.appspot.com",
+  apiKey: "AIzaSyDIdSpACQbc1-_JICLQ6gRjl_YrX25eiOA",
+  authDomain: "mini-diary-organization.firebaseapp.com",
+  databaseURL: "https://mini-diary-organization-default-rtdb.firebaseio.com",
+  storageBucket: "mini-diary-organization.appspot.com",
 };
 firebase.initializeApp(config);
 
@@ -24,4 +24,4 @@ firebase.initializeApp(config);
 // Google OAuth Client ID, needed to support One-tap sign-up.
 // Set to null if One-tap sign-up is not supported.
 var CLIENT_ID =
-    'YOUR_OAUTH_CLIENT_ID';
+    '542075449644-r7br6s244g3ipomeaink31mn71uh0f35.apps.googleusercontent.com';
